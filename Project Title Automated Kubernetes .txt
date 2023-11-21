@@ -25,11 +25,7 @@ By successfully implementing this automated Kubernetes cluster security solution
 
 This experience demonstrates my expertise in Kubernetes security, policy management, and automation using Kyverno and ArgoCD, which can be a valuable addition to your resume, especially if you're looking for roles in DevOps, Infrastructure, or Kubernetes administration.
 
-
-
-
-
-Tell me more about ArgoCD.
+xhddhbfhdbgjfe
 
 Explain the benefits of Kubernetes security.
 
