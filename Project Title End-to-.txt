@@ -1,0 +1,42 @@
+Project Title: End-to-End CI/CD Pipeline for Application Deployment
+
+Project Description:
+Designed and implemented a comprehensive CI/CD pipeline for automating the deployment of a mission-critical application using an array of industry-standard tools and practices. This project covered infrastructure provisioning, code version control, continuous integration, security testing, containerization, and Kubernetes orchestration.
+
+Key Achievements:
+
+Infrastructure as Code (IaC) with Terraform:
+
+Orchestrated infrastructure provisioning on AWS (EKS) using Terraform, ensuring consistency and repeatability of infrastructure setup.
+Version Control with Git:
+
+Managed the application codebase using Git, enabling efficient collaboration and version control.
+Continuous Integration with Jenkins:
+
+Configured Jenkins for automated builds, testing, and deployment. Integrated it with Maven for efficient Java application building.
+Code Quality and Security with SonarQube:
+
+Integrated SonarQube for code quality analysis and adherence to coding standards.
+Dependency Scanning with OWASP Dependency Check:
+
+Incorporated OWASP Dependency Check to identify and mitigate vulnerabilities in application dependencies.
+Containerization with Docker:
+
+Containerized the application using Docker, ensuring consistency across development and production environments.
+Container Registry with Amazon ECR:
+
+Managed Docker images in Amazon ECR, providing a secure and reliable registry for container images.
+Security Scanning with Trivy:
+
+Implemented Trivy to scan Docker images for vulnerabilities, ensuring security in the containerized application.
+Continuous Deployment with ArgoCD:
+
+Orchestrated continuous deployment and GitOps practices using ArgoCD to manage Kubernetes deployments.
+Kubernetes Orchestration (Amazon EKS):
+
+Managed application deployments and scaling in Kubernetes on Amazon EKS, ensuring high availability and scalability.
+Monitoring with Prometheus and Grafana:
+
+Integrated Prometheus and Grafana for real-time application and infrastructure monitoring, enabling proactive issue detection and resolution.
+Impact:
+The implementation of this end-to-end CI/CD pipeline significantly improved the development lifecycle, reduced manual intervention, and enhanced security and stability throughout the application's deployment. By automating the entire process, the team achieved faster, more reliable releases while maintaining high security and compliance standards.
